@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import {TouchableOpacity, Text, StyleSheet} from 'react-native';
+import {TouchableOpacity, Text} from 'react-native';
+
 
 const PetShopButton = props => (
   <TouchableOpacity
